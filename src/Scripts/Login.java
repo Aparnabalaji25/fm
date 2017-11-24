@@ -14,6 +14,7 @@ void Login()
 	h.unTextBox().sendKeys("admin");
 	h.pwTextBox().sendKeys("manager");
 	h.loginbutton().click();
+	//update from eclipse - push
 }
 
 }
